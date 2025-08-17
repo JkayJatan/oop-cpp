@@ -5,10 +5,6 @@ It is designed for beginners to intermediate learners who want to strengthen the
 
 ---
 
-## 📂 Repository Structure
-
----
-
 ## 🧩 Concepts Covered
 - **Classes & Objects**  
 - **Constructors & Destructors**  
